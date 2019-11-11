@@ -1,0 +1,5 @@
+C:\Users\D Serious\web Dev\asp.net CoffeeShop\The Coffee Shop\TheCoffeeShop\TheCoffeeShop.Data\bin\Debug\netcoreapp3.0\TheCoffeeShop.Data.deps.json
+C:\Users\D Serious\web Dev\asp.net CoffeeShop\The Coffee Shop\TheCoffeeShop\TheCoffeeShop.Data\bin\Debug\netcoreapp3.0\TheCoffeeShop.Data.dll
+C:\Users\D Serious\web Dev\asp.net CoffeeShop\The Coffee Shop\TheCoffeeShop\TheCoffeeShop.Data\obj\Debug\netcoreapp3.0\TheCoffeeShop.Data.csprojAssemblyReference.cache
+C:\Users\D Serious\web Dev\asp.net CoffeeShop\The Coffee Shop\TheCoffeeShop\TheCoffeeShop.Data\obj\Debug\netcoreapp3.0\TheCoffeeShop.Data.AssemblyInfoInputs.cache
+C:\Users\D Serious\web Dev\asp.net CoffeeShop\The Coffee Shop\TheCoffeeShop\TheCoffeeShop.Data\obj\Debug\netcoreapp3.0\TheCoffeeShop.Data.AssemblyInfo.cs
